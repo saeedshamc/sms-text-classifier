@@ -1,0 +1,9 @@
+train-data.tsv
+valid-data.tsv
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+.DS_Store
+*.h5
+*.keras
